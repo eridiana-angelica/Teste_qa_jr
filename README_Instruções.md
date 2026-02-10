@@ -1,3 +1,4 @@
+Instruções
 # Teste QA jr – Cypress
 
 Este repositório contém testes automatizados de **API** e **E2E (Frontend)** desenvolvidos com **Cypress**.
