@@ -22,5 +22,15 @@ Pré-requisitos
 Instalação
 Na raiz do projeto, execute:
 
-```bash
+bash
 npm install
+
+---
+
+Executar os testes
+
+Abrir Cypress (modo interativo)
+npx cypress open
+
+Executar todos os testes (modo headless)
+npx cypress run
